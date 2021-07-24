@@ -7,12 +7,12 @@ EngAct = English grade
 MatAct = Maths grade
 
 # Content
-PP = Pupil Premium
-EAL = English as Additional Language
-HML = Ability based on previous results ages 10/11. H= Higher, M = Middle, L = Lower
-Re = Reading grade at aged 10
-Wr = Writing grade at aged 10
-Ma = Maths grade at aged 10
+- PP = Pupil Premium
+- EAL = English as Additional Language
+- HML = Ability based on previous results ages 10/11. H= Higher, M = Middle, L = Lower
+- Re = Reading grade at aged 10
+- Wr = Writing grade at aged 10
+- Ma = Maths grade at aged 10
 
 # Inspiration
 Your data will be in front of the world's largest data science community. What questions do you want to see answered?
